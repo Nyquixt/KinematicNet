@@ -1,7 +1,9 @@
 # KinematicNet
 
+![architecture](assets/architecture.png)
+
 ## Preparing the data
-The dataset is preprocessed, and the annotation file can be downloaded from [here](). The images can be downloaded from [here](). Once the data are downloaded, organize the filesystem like this.
+The dataset is preprocessed. The annotation file and the videos can be downloaded from [here](https://drive.google.com/drive/folders/11FVRcEpXWamfR_ffuboBLSFZltx-9_Um?usp=sharing). Once the data are downloaded, follow some [pre-processing of the videos](preprocessing/README.md) and organize the filesystem like this.
 
     ${ROOT}
         |--data
